@@ -1,3 +1,15 @@
-node_modules/
+# Intellij
+*.iml
+.idea
+
+# npm
+node_modules
+
+# build
 main.js
+
+# obsidian
 data.json
+
+# operating system junk
+.DS_Store
