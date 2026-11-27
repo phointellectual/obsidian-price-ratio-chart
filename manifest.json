@@ -1,0 +1,1 @@
+{"author": "phointellectual", "description": "Draws a live price-ratio chart (one ticker divided by another) with 200/400/1,000-day regression lines and standard deviation bands, a 14-day RSI panel, and a 200-day z-score, from Yahoo Finance data.", "id": "price-ratio-chart", "isDesktopOnly": false, "minAppVersion": "1.0.0", "name": "Price Ratio Chart", "version": "1.1.1"}
